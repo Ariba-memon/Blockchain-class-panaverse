@@ -1,0 +1,15 @@
+blockchain:blockchain ik database h transction ka data h
+secure kaisy hai 
+alg alg machines pe chalayengy 
+
+ethereum blockchain krsakty hain
+blockchain ko chalana h
+ sbky pas same data hoga 
+nodes hoga transction ko verify and blockchain m add krti h
+ethereum nodes 90k h 51% machines  apni lagani honge
+decentrilzed h koi ik owner nh h
+destributed h same data hkoi ik apna data lega 4ron ko btayega
+4 logon ko hum nodes kahengy 
+node ik basic concept h blockchain ka
+reward milta h ik jo phely kam krega usko reward milega
+
