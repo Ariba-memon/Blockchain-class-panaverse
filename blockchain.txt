@@ -12,4 +12,21 @@ destributed h same data hkoi ik apna data lega 4ron ko btayega
 4 logon ko hum nodes kahengy 
 node ik basic concept h blockchain ka
 reward milta h ik jo phely kam krega usko reward milega
+gas fee bheji thi node usko priority dega jo zyada gas fee dega 
+10 min m apka ik block fee hota h 
+drawbacks:private key ghum hogaye tu ap account ko bhol jyein
+userfriendly: nh hai user ko phely sari chezain krni hoge
+gas fees:gas fee deni hoge (blockchain m koi bhi cheez insert krein tu gas fee deni hoge)
+mery user ko gas fee deni hoge  
+metamask:externaly own account called metamask account 
+smart contracts: 
+code likha ky car mery nam pe hojaye code likha and deploy kia smartcontract pe
+blockchain m ap kuch bhi transiction krogy gas fee deni hoge
+trustless code likha howa hion 
+jo contract bana rha h woh developer h
+cost ati h blockchain main zyada apps blockchain pe nh hote h
+kuch part ap centrilized rkhtay h 
+account abstruction:
+hamay apna wallet banana h metamask nh use krna chah rhy
+dapp apni app decentrilized app
 
